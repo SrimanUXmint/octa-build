@@ -1,0 +1,55 @@
+{
+  "activityTitle": "Shape Stories: From Abstract to Recognisable",
+  "student": {
+    "id": 1,
+    "name": "John Paul",
+    "class": "6th Class - B",
+    "status": "completed",
+    "avatar": "/assets/classResultsummary/john.png"
+  },
+  "overallAverage": 82.75,
+  "feedbackSections": [
+    {
+      "title": "Originality of Ideas",
+      "score": 70,
+      "feedbackType": "AI Feedback",
+      "details": "The human figure is creative and unique, demonstrating imaginative thinking. The house, balloon, and computer are recognizable but follow conventional ideas."
+    },
+    {
+      "title": "Diversity of Ideas",
+      "score": 65,
+      "feedbackType": "AI Feedback",
+      "details": "The sketches show a mix of categories (person, building, object, technology), reflecting decent variety."
+    },
+    {
+      "title": "Clarity of Sketches",
+      "score": 55,
+      "feedbackType": "AI Feedback",
+      "details": "The sketches need more precision and clarity to improve overall quality."
+    },
+    {
+      "title": "Title Creativity",
+      "score": 65,
+      "feedbackType": "AI Feedback",
+      "details": "Titles are direct and descriptive but lack imaginative flair (e.g., 'Balloon' and 'Computer')."
+    }
+  ],
+  "overallPerformanceSummary": {
+    "text": [
+      "Refine Complex Shapes - Pay extra attention to more intricate sketches, such as the house, to ensure the lines match the template while maintaining proportional balance.",
+      "Enhance Title Creativity - While the titles accurately reflect the drawings, encourage the use of more imaginative, playful, or descriptive titles.",
+      "Experiment with Diverse Concepts - Push for more unique object transformations that break away from common ideas.",
+      "Focus on Precision - Practice cleaner lines and smoother transitions between template shapes and finished sketches."
+    ],
+    "score": "180/200"
+  },
+  "teacherFeedback": {
+    "text": [
+      "Refine Complex Shapes - Pay extra attention to more intricate sketches, such as the house, to ensure the lines match the template while maintaining proportional balance.",
+      "Enhance Title Creativity - While the titles accurately reflect the drawings, encourage the use of more imaginative, playful, or descriptive titles.",
+      "Experiment with Diverse Concepts - Push for more unique object transformations that break away from common ideas.",
+      "Focus on Precision - Practice cleaner lines and smoother transitions between template shapes and finished sketches."
+    ],
+    "score": "180/200"
+  }
+}
