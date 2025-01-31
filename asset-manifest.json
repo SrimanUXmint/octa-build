@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccf0b2fd.css",
-    "main.js": "/static/js/main.8c51b188.js",
+    "main.css": "/static/css/main.edbccd31.css",
+    "main.js": "/static/js/main.38b39375.js",
+    "static/media/3.pdf": "/static/media/3.d187286bf47051f6954a.pdf",
+    "static/media/1.pdf": "/static/media/1.7aa42681c81560f25af7.pdf",
+    "static/media/2.pdf": "/static/media/2.f173a8aaa8fee3ed2f45.pdf",
     "static/media/s1.svg": "/static/media/s1.e9493317a1276d7bd92e3d97eb301e67.svg",
     "static/media/s2.svg": "/static/media/s2.29497f0d073230c9a89c90e5fc73d59c.svg",
     "static/media/banner.svg": "/static/media/banner.b18ac520c7be769e1a388160867e79fc.svg",
@@ -14,11 +17,11 @@
     "static/media/act2-icon.svg": "/static/media/act2-icon.e37b8e6397a1ba7b6487544c79affe87.svg",
     "static/media/ShapeStoriesWorksheet.pdf": "/static/media/ShapeStoriesWorksheet.656c30e633fc14b426e8.pdf",
     "index.html": "/index.html",
-    "main.ccf0b2fd.css.map": "/static/css/main.ccf0b2fd.css.map",
-    "main.8c51b188.js.map": "/static/js/main.8c51b188.js.map"
+    "main.edbccd31.css.map": "/static/css/main.edbccd31.css.map",
+    "main.38b39375.js.map": "/static/js/main.38b39375.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccf0b2fd.css",
-    "static/js/main.8c51b188.js"
+    "static/css/main.edbccd31.css",
+    "static/js/main.38b39375.js"
   ]
 }
