@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.edbccd31.css",
-    "main.js": "/static/js/main.38b39375.js",
-    "static/media/3.pdf": "/static/media/3.d187286bf47051f6954a.pdf",
-    "static/media/1.pdf": "/static/media/1.7aa42681c81560f25af7.pdf",
-    "static/media/2.pdf": "/static/media/2.f173a8aaa8fee3ed2f45.pdf",
-    "static/media/s1.svg": "/static/media/s1.e9493317a1276d7bd92e3d97eb301e67.svg",
-    "static/media/s2.svg": "/static/media/s2.29497f0d073230c9a89c90e5fc73d59c.svg",
-    "static/media/banner.svg": "/static/media/banner.b18ac520c7be769e1a388160867e79fc.svg",
-    "static/media/s4.svg": "/static/media/s4.c87caa93c21ecbfc821e2a8790c5a17d.svg",
-    "static/media/s5.svg": "/static/media/s5.e3c269f21b927915d96e351ece9db9b4.svg",
-    "static/media/con-icon.svg": "/static/media/con-icon.80858ed2b6733d549b20a8e28dbf1935.svg",
-    "static/media/act1-icon.svg": "/static/media/act1-icon.ea91ed7078c0368f767f92e8d8dfd2b1.svg",
-    "static/media/tab2-icon.svg": "/static/media/tab2-icon.970ee1118cac77f3ad7f101566fa38e6.svg",
-    "static/media/tab1-icon.svg": "/static/media/tab1-icon.2be8fcdf2546ba85a0f89f9f0dd35a14.svg",
-    "static/media/act2-icon.svg": "/static/media/act2-icon.e37b8e6397a1ba7b6487544c79affe87.svg",
+    "main.css": "/static/css/main.54fd5c95.css",
+    "main.js": "/static/js/main.48c807f0.js",
+    "static/media/3.pdf": "/static/media/3.48148787b30db72d5f5b.pdf",
+    "static/media/1.pdf": "/static/media/1.9c16bcb12059e304923f.pdf",
+    "static/media/2.pdf": "/static/media/2.d42f7148e4655570baf8.pdf",
+    "static/media/s1.svg": "/static/media/s1.5ef58d742a85acbbcbc1bc311882d8ed.svg",
+    "static/media/s2.svg": "/static/media/s2.2a1072ca12d0cc68a5b6c4d3fec3348b.svg",
+    "static/media/banner.svg": "/static/media/banner.29db5da98025e5a933a9408d45772db2.svg",
+    "static/media/s4.svg": "/static/media/s4.e4177bb319e971fa139f88deeefea971.svg",
+    "static/media/s5.svg": "/static/media/s5.b0d08024454e5bfaa5bea7e8a7c00bd1.svg",
+    "static/media/rank.svg": "/static/media/rank.230e09104d30567f4277ebc718c6cf0b.svg",
+    "static/media/con-icon.svg": "/static/media/con-icon.db868f372b81e96cf8e62bd2254b1cd6.svg",
+    "static/media/act1-icon.svg": "/static/media/act1-icon.c154a206367106a58e4c52214871726f.svg",
+    "static/media/tab2-icon.svg": "/static/media/tab2-icon.cbb9b58c4be864ac933bf56a4f6f9cde.svg",
+    "static/media/tab1-icon.svg": "/static/media/tab1-icon.bd1d1f00f6f49028b7a72d96fc7595fa.svg",
+    "static/media/act2-icon.svg": "/static/media/act2-icon.2a08d346b3ced48b5d6a277b3a6c5b84.svg",
     "static/media/ShapeStoriesWorksheet.pdf": "/static/media/ShapeStoriesWorksheet.656c30e633fc14b426e8.pdf",
     "index.html": "/index.html",
-    "main.edbccd31.css.map": "/static/css/main.edbccd31.css.map",
-    "main.38b39375.js.map": "/static/js/main.38b39375.js.map"
+    "main.54fd5c95.css.map": "/static/css/main.54fd5c95.css.map",
+    "main.48c807f0.js.map": "/static/js/main.48c807f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.edbccd31.css",
-    "static/js/main.38b39375.js"
+    "static/css/main.54fd5c95.css",
+    "static/js/main.48c807f0.js"
   ]
 }
